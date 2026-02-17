@@ -16,4 +16,4 @@ A data analysis project that evaluates student performance and generates insight
 
 # Project Goal
 To practice real-world data analysis workflow:
-Data Cleaning → Analysis → Visualization → Insights
+Data Cleaning → Analysis → Visualization → Insights.
